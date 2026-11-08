@@ -1,0 +1,11 @@
+# Runtime and notebook dependencies
+streamlit
+altair
+numpy
+pandas
+matplotlib
+seaborn
+joblib
+scikit-learn==1.9.1
+ucimlrepo
+jupyter

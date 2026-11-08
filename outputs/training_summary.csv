@@ -1,0 +1,6 @@
+Model,Best params,CV macro-F1,Time (s)
+Logistic Regression,{'clf__C': 10.0},0.9365,8.3
+Decision Tree,"{'clf__criterion': 'entropy', 'clf__max_depth': 10, 'clf__min_samples_leaf': 10}",0.9269,6.3
+KNN,"{'clf__n_neighbors': 9, 'clf__weights': 'distance'}",0.937,1.9
+Naive Bayes,{'clf__var_smoothing': 1e-09},0.9037,2.6
+Support Vector Machine,"{'clf__estimator__C': 10.0, 'clf__estimator__gamma': 'auto'}",0.9431,30.8
