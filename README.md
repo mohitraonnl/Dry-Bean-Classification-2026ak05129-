@@ -23,7 +23,7 @@ The dataset CSV used for training is stored at `data/dry_bean_full.csv`. The hel
 
 ## c. GitHub repository link
 
-**GitHub repository:** [ADD YOUR PUBLIC GITHUB REPOSITORY URL HERE]
+**GitHub repository:** [ https://github.com/mohitraonnl/Dry-Bean-Classification-2026ak05129- ]
 
 Ensure the repository contains `app.py`, `requirements.txt`, `README.md`, the five saved models in `model/`, `outputs/test_data.csv`, the training source/notebook, and the supporting evaluation outputs.
 
@@ -95,7 +95,7 @@ streamlit run app.py
 
 ### Streamlit Community Cloud link
 
-**Live app:** [ADD YOUR STREAMLIT COMMUNITY CLOUD URL AFTER DEPLOYMENT]
+**Live app:**  https://zzh7vqwdesvmktqrruh3bf.streamlit.app/ ]
 
 Deploy by connecting the GitHub repository to Streamlit Community Cloud, selecting the correct branch, and setting `app.py` as the main file.
 
